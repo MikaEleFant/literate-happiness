@@ -1,4 +1,4 @@
-class Spell {
+export default class Spell {
     constructor(name, tier, description, manaCost, castTime, attributes) {
         this.name = name;
         this.tier = tier;

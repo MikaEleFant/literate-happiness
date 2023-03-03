@@ -1,4 +1,4 @@
-class Die {
+export default class Die {
     constructor(name, sides) {
         this.name = name;
         this.sides = sides;
