@@ -1,5 +1,4 @@
 import Die from 'die.js';
-import Spell from 'spell.js';
 import Entity from 'entity.js';
 import Level from 'level.js';
 
