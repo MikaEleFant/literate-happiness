@@ -1,6 +1,7 @@
 import Die from 'die.js';
 import Enemy from 'enemy.js';
 import Level from 'level.js';
+import Tower from 'tower.js';
 
 // const D4 = new Die("D4", 4);
 // const D6 = new Die("D6", 6);
@@ -17,6 +18,10 @@ class Game {
 
     start() {
 
+    }
+
+    createSprite(width, height, color, x, y) {
+        
     }
 }
 
